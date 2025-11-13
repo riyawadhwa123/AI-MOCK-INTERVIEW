@@ -45,7 +45,7 @@ Built with Next.js for the user interface and backend logic, Firebase for authen
 
 and many more, including code architecture and reusability
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start"> Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
